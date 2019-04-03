@@ -6,7 +6,16 @@ const Author = ({ author, isIndex }) => (
   <div className={styles['author']}>
     <Link to="/">
       <img
-        src={withPrefix(author.photo)}
+        src={withPrefix(author.photo1)}
+        className={styles['author__photo']}
+        width="75"
+        height="75"
+        alt={author.name}
+      />
+    </Link>
+    <Link to="/">
+      <img
+        src={withPrefix(author.photo2)}
         className={styles['author__photo']}
         width="75"
         height="75"

@@ -167,3 +167,20 @@ figcaption {
   }
 
 }
+
+
+table{
+  border-collapse:collapse;
+  margin:0 auto;
+}
+td,th{
+  padding:10px;
+  border-bottom:1px solid #767a78;
+}
+th{
+  color:#fff;
+  background:#767a78;
+}
+table tr td:nth-child(odd){
+  background:#cad1ce;
+}

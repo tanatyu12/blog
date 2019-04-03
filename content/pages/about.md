@@ -3,10 +3,26 @@ title: "About me"
 template: "page"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+## Basic
+![VRoidで作成した3Dモデル サディちゃん](/media/IMG_1431.png)
+* 田中 雄基（たなか ゆうき）
+* 1994.12.3
+* in Tokyo
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+ソフトウェアエンジニア。メインはWeb/Unity。大学４年次にアニメにハマって、なんか芋づる式にテクノロジー・プログラミングにもハマる。
+（ちなみにきっかけは『NEW GAME!」というアニメ）
+新卒でソフトウェア開発会社に入社して、WebシステムやUnityアプリケーションの設計・開発をしている。CS・数学などの知識を拡充しつつ、分野くくらずテクノロジーを駆使してワクワクする何かを作ろうとしている。
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+## Skill/Tools
+#### Programming Language
+    C#, PHP, Javascript(Node.js), Python, Java, Golang
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+#### Other
+    Unity(3D,ARKit,OculusGo,Oculus), Laravel(PHP Web Framework), 
+    AWS構築(VPC, EC2, RDS, Lambda, DynamoなどWeb関連), 
+    その他 Web Backendらへんのこと
+
+## Career
+* 明治大学情報コミュニケーション学部（~2017.3）
+* 株式会社ZooopsJapan（2017.4~）
+

@@ -12,6 +12,8 @@ $color-gray: lighten($color-base, 40%);
 $color-gray-border: lighten($color-base, 77%);
 $color-gray-bg: lighten($color-base, 79%);
 
+$color-light-green: #42f49e;
+
 // Typographic
 $typographic-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 
@@ -33,7 +35,7 @@ $button-border-radius: 20px;
 
 // Layout
 $layout-post-single-width: 945px;
-$layout-post-width: $layout-post-single-width - 305px;
+$layout-post-width: $layout-post-single-width - 250px;
 
 $layout-width: 1070px;
 $layout-breakpoint-sm: 685px;
