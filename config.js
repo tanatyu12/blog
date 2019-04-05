@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'たなログ',
-  subtitle: 'たなログ',
+  url: 'https://ytana.com/',
+  title: 'Yu-ki Tanaka',
+  subtitle: 'Yu-ki Tanaka',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
