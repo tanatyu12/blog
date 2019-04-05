@@ -169,19 +169,20 @@ figcaption {
 }
 
 table{
-  border-collapse:collapse;
-  margin:0 auto;
+  border-collapse: separate;
+  border-spacing: 5px 0;
+  margin: 0 auto;
 }
 td,th{
-  padding:10px;
-  border-bottom:1px solid #767a78;
+  padding: 10px;
 }
 th{
-  color:#fff;
-  background:#767a78;
+  color: #fff;
+  background: #767a78;
+  border-radius: 5px;
 }
-table tr td:nth-child(odd){
-  background:#cad1ce;
+td{
+  color: #767a78;
 }
 
 //override prismjs(code block backgournd)

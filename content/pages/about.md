@@ -18,7 +18,7 @@ template: "page"
     C#, PHP, Javascript(Node.js), Python, Java, Golang
 
 #### Other
-    Unity(3D,ARKit,OculusGo,Oculus), Laravel(PHP Web Framework), 
+    Unity(3D,ARKit,OculusGo,OculusRift), Laravel(PHP Web Framework), 
     AWS構築(VPC, EC2, RDS, Lambda, DynamoなどWeb関連), 
     その他 Web Backendらへんのこと
 
